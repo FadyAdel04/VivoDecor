@@ -7,7 +7,6 @@ header {
   top: 0;
   left: 0;
   position: sticky;
-  overflow: hidden;
   z-index: 100;
 }
 
@@ -69,7 +68,7 @@ nav .signup-btn {
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 60px;
+    top: 50px;
     right: 0;
     background: white;
     width: 100%;
